@@ -1,4 +1,0 @@
-<?php
-asd
-zc
-qwe
